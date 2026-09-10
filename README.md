@@ -26,4 +26,4 @@ SplitEasy is a **Spring Boot-based expense management application** that helps u
 
 ## Author
 
-**Rahul Ramanandi**
+**Rahul**
